@@ -6,6 +6,13 @@
 
 ![](https://komarev.com/ghpvc/?username=qvanle)
 
+## About me 
+- 👨‍💻 My full name is Le Quoc Van.
+- 🏫 I used to studied at Thang Long high school for gifted at Da Lat.
+- 🕰 At the moment, I'm a second year student at Ho Chi Minh University of Sciences.
+- 🇻🇳 I used to take part in Viet Nam Olympiad in Informatics and won third prize.
+- 📫 How to reach me **vanle199tk@gmail.com**
+
 ## Contact me
 
 <p align="left">
