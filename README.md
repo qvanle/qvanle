@@ -27,7 +27,7 @@
 - English
 - Vietnamese 
 
-## Programming language 
+## Programming languages
 <p align="left">  
   <a href="https://www.w3schools.com/c/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -55,5 +55,28 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="bash" width="40" height="40"/> 
   </a> 
 
+  </a> 
+    <a href="https://www.w3schools.com/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="bash" width="40" height="40"/> 
+  </a> 
 
+  </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+
+</p>
+
+## Tools 
+<p align="left">  
+  <a href="https://wiki.archlinux.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+
+  <a href="https://neovim.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+
+
+  
 </p>
