@@ -1,6 +1,6 @@
 <p align="center"><b>qvanle | major in computer science</b></p>
 
-![](https://komarev.com/ghpvc/?username=qvanle)---
+![](https://komarev.com/ghpvc/?username=qvanle)
 
 <p align="center">
   <a href="https://github.com/qvanle" target="_blank">
