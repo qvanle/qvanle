@@ -76,6 +76,13 @@
   <a href="https://neovim.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="c" width="40" height="40"/> 
   </a>
+  <a href="https://cmake.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+
+  <a href="https://git-scm.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="c" width="40" height="40"/> 
+  </a>  
 
 
   
