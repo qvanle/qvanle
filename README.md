@@ -29,7 +29,7 @@
 
 ## Programming language 
 <p align="left">  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.w3schools.com/c/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -38,7 +38,22 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.lua.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> 
   </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  
+  </a> 
+    <a href="https://www.w3schools.com/js" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+
+  </a> 
+    <a href="(https://www.latex-project.org/)" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+
+
 </p>
